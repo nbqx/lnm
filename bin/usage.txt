@@ -1,0 +1,7 @@
+usage: lnm {options} PATH
+
+  listing node modules in the scripts without package.json project
+  
+  OPTIONS:
+
+  -h, --help       print this message

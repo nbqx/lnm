@@ -1,0 +1,22 @@
+{
+  "name": "lnm",
+  "description": "listing node modules from the scripts in no package.json project",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/lnm.git"
+  },
+  "homepage": "https://github.com/nbqx/lnm",
+  "main": "index.js",
+  "bin": "bin/cmd.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^2.13.1"
+  }
+}
